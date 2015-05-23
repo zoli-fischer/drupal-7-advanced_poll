@@ -1,0 +1,8 @@
+name = Advanced Poll
+description = Allows your site to capture votes on different topics in the form of multiple choice questions.
+core = 7.x
+version = "7.36-1.0"
+project = "group-3"
+datestamp = "1429774051"
+files[] = advanced_poll.test
+stylesheets[all][] = advanced_poll.css

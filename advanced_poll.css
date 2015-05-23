@@ -1,0 +1,73 @@
+
+.advanced_poll {
+  overflow: hidden;
+}
+
+.advanced_poll .bar {
+  height: 1em;
+  margin: 1px 0;
+  background-color: #ddd;
+}
+
+.advanced_poll .bar .foreground {
+  background-color: #000;
+  height: 1em;
+  float: left; /* LTR */
+}
+
+.advanced_poll .links {
+  text-align: center;
+}
+
+.advanced_poll .percent {
+  text-align: right; /* LTR */
+}
+
+.advanced_poll .total {
+  text-align: center;
+}
+
+.advanced_poll .vote-form {
+  text-align: center;
+}
+
+.advanced_poll .vote-form .choices {
+  text-align: left; /* LTR */
+  margin: 0 auto;
+  display: table;
+}
+
+.advanced_poll .title {
+  font-weight: bold;
+}
+
+.advanced_poll .your-vote {
+  margin-top: 10px;
+}
+
+.advanced_poll .result-date {
+  font-style: italic;
+  margin-top: 10px;
+}
+
+.node-form #edit-advanced_poll-more {
+  margin: 0;
+}
+
+.node-form #advanced_poll-choice-table .form-text {
+  display: inline;
+  width: auto;
+}
+
+.node-form #advanced_poll-choice-table td.choice-flag {
+  white-space: nowrap;
+  width: 4em;
+}
+
+td.advanced_poll-chtext {
+  width: 80%;
+}
+
+td.advanced_poll-chvotes .form-text {
+  width: 85%;
+}

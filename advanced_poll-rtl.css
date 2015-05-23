@@ -1,0 +1,11 @@
+.advanced_poll .bar .foreground {
+  float: right;
+}
+
+.advanced_poll .percent {
+  text-align: left;
+}
+
+.advanced_poll .vote-form .choices {
+  text-align: right;
+}
