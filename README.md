@@ -20,7 +20,15 @@ Compatible with Drupal 7.*.
 
 No aditional module is required.
 
-## Download / Install
+## Install
+
+1. Login to your Drupal 7 instalment as administrator.
+2. In the menu select "Install new module" unde "Modules"
+3. Use https://github.com/zoli-fischer/drupal-7-advanced_poll/raw/master/advanced_poll.zip to install from a URL or download the [zip](https://github.com/zoli-fischer/drupal-7-advanced_poll/raw/master/advanced_poll.zip) and upload it.
+4. Activate the advanced poll module.
+5. Configure the persmissions.
+
+## Download
 
 [Click here for download](https://github.com/zoli-fischer/drupal-7-advanced_poll/raw/master/advanced_poll.zip)
 
